@@ -1,4 +1,4 @@
-# Hi, I'm @j03w1 👋
+# Hi, I'm @j03w1 
 
 **Cybersecurity Graduate Student & Defensive Software Developer**  
 *Mississippi, USA • U.S. Citizen (Clearance Eligible)*
@@ -7,7 +7,7 @@ Computer Science graduate and IT professional with a background in system admini
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
@@ -19,7 +19,7 @@ Computer Science graduate and IT professional with a background in system admini
 
 ---
 
-### 🔭 Featured Projects
+### Featured Projects
 
 * **[tactical-nids](https://github.com/j03w1/tactical-nids)**  
   *Lightweight C++17 intrusion detection system engineered for tactical edge environments.*  
@@ -30,7 +30,7 @@ Computer Science graduate and IT professional with a background in system admini
 
 ---
 
-### 💼 Current Focus & Professional Experience
+### Current Focus & Professional Experience
 
 * **IT Support Analyst I** (Mar 2026 - Present)
   * Evaluating software/hardware interfaces to enforce security baselines across municipal networks.
@@ -42,7 +42,7 @@ Computer Science graduate and IT professional with a background in system admini
 
 ---
 
-### 📜 Certifications & Education
+### Certifications & Education
 
 * **CompTIA Security+** (Active)
 * **ISC2 Certified in Cybersecurity (CC)** (Active)
